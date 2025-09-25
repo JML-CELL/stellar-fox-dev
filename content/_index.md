@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        LU WANG Group
+        Lu Wang Group
       image:
         filename: first.JPG
       text: |
