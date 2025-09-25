@@ -10,7 +10,7 @@ sections:
       title: |
         LU WANG Group
       image:
-        filename: welcome.jpg
+        filename: first.JPG
       text: |
         <br>
         
