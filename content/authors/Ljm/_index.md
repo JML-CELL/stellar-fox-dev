@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of EAT SHIT
+role: Professor of EAT
 
 # Organizations/Affiliations
 organizations:
