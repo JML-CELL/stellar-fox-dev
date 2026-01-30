@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of EAT
+role: Professor of EAT123
 
 # Organizations/Affiliations
 organizations:
