@@ -9,24 +9,24 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Shenzhen University (SZU) is a comprehensive university located in Shenzhen, China's first Special Economic Zone. It is known for its innovative education, strong research capabilities, and close ties to the Greater Bay Area's tech and innovation ecosystem. We welcome collaborations, visits, and inquiries.
+      email: international@szu.edu.cn  # 或你的实验室/学院邮箱，例如你的组邮箱
+      phone: +86 755 26536177         # 研究生招生通用电话，可换成具体部门电话如 0755-26536198（电子信息学院示例）
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 3688 Nanhai Avenue
+        city: Nanshan District, Shenzhen
+        region: Guangdong
+        postcode: '518060'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '22.5393'
+        longitude: '113.9337'
+      directions: Enter Yuehai Campus (粤海校区) via the main gate on Nanhai Avenue. Head to Huiyuan Building (汇元楼) for most administrative offices.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - 'Monday to Friday 08:30 to 12:00'
+        - 'Monday to Friday 14:00 to 17:30'
+      appointment_url: 'https://calendly.com'  # 可替换成你的预约链接，如微信小程序或学校系统
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -55,14 +55,14 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
+        # image: 
+        #   # filename: contact.jpg          # 你可以替换成深圳大学的校园照片，如粤海校区或丽湖校区图片
+        #   filters:
+        #     brightness: 1
+        #   parallax: false
+        #   position: center
+        #   size: cover
+        #   text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
