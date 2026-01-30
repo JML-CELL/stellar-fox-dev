@@ -1,14 +1,14 @@
 ---
 # Display name
-title: LinJM
+title: YuXia
 
 # Full name (for SEO)
-first_name: JM
-last_name: LIN
+first_name: Yu
+last_name: Xia
 
 # Username (this should match the folder name)
 authors:
-  - 林嘉明
+  - 夏瑜
 
 # Is this the primary user of the site?
 superuser: false
